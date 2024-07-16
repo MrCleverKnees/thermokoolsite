@@ -1,0 +1,21 @@
+.header {
+  margin-top: 0px;
+  display: flex;
+  position: fixed;
+  flex: 1;
+  right: 0;
+  left: 0;
+  top: 0;
+  background-color: rgb(56, 111, 192);
+  height: 90px;
+  justify-content: start;
+  flex-direction: row;
+  z-index: 100;
+  
+}
+
+.logo {
+  height: 20px;
+ x;
+}
+
